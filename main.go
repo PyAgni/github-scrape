@@ -17,7 +17,7 @@ const (
 
 var (
 	username = "pyagni"
-	password = "AGNIb!5"
+	password = ""
 )
 
 type App struct {
